@@ -40,7 +40,7 @@ JavaScript: For interactivity and dynamic features.
 Clone the repository:
 
 Copy code
-git clone https://github.com/your-username/gl-sports.git
+git clone https://github.com/Shrut2203/GL-Sport-website.git
 
 Open index.html in your preferred browser to view the website.
 
